@@ -1,2 +1,3 @@
-# Markov-NGram-TextGenerator
-NLP project to use N-Grams and Markov Chains to generate text on a per-word basis.
+# TextGenerator
+NLP project to use N-Grams and Markov Chains to generate text on a per-word basis. Implements Stupid Backoff.
+
